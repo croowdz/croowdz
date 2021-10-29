@@ -12,7 +12,7 @@ Java/Python/JavaBukkit developer, focused in pentest & bug bounty, also have ski
 
 📫 You can find me at:
  Discord: und4r#9936
- E-mail: indisponível@unknow.com
+ E-mail: indisponivel@unknow.com
 
 ♥️ Thanks for visiting:
 
