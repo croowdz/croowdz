@@ -1,6 +1,6 @@
 Hi there 👋
-Arthur (croowdz) here
-Java/Python/JavaBukkit developer, focused in backend system, also have skills in others areas 😁
+Arthur (croowdz/und4r) here
+Java/Python/JavaBukkit developer, focused in pentest & bug bounty, also have skills in others areas 😁
 
 
 
@@ -11,8 +11,8 @@ Java/Python/JavaBukkit developer, focused in backend system, also have skills in
 🎓 I love learning new technologies and tools!
 
 📫 You can find me at:
- Discord: crxdz#9936
- E-mail: arthurlacerdatristao@gmail.com
+ Discord: und4r#9936
+ E-mail: indisponível@unknow.com
 
 ♥️ Thanks for visiting:
 
