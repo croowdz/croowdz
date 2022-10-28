@@ -1,5 +1,5 @@
 Hi there 👋
-Arthur (croowdz/und4r) here
+Arthur (croowdz/und3r) here
 Java/Python/JavaBukkit developer, focused in pentest & bug bounty, also have skills in others areas 😁
 
 
@@ -11,7 +11,7 @@ Java/Python/JavaBukkit developer, focused in pentest & bug bounty, also have ski
 🎓 I love learning new technologies and tools!
 
 📫 You can find me at:
- Discord: und4r#9936
+ Discord: undrr#9936
  E-mail: indisponivel@unknow.com
 
 ♥️ Thanks for visiting:
