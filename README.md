@@ -1,6 +1,6 @@
 Hi there 👋
-Arthur (croowdz/und3r) here
-Java/Python/JavaBukkit developer, focused in pentest & bug bounty, also have skills in others areas 😁
+Arthur Lacerda(croowdz/und3r) here
+HTML/CSS/JS/PHP developer, learning hacking, also have skills in others areas 😁
 
 
 
@@ -11,8 +11,8 @@ Java/Python/JavaBukkit developer, focused in pentest & bug bounty, also have ski
 🎓 I love learning new technologies and tools!
 
 📫 You can find me at:
- Discord: undrr#9936
- E-mail: indisponivel@unknow.com
+ Discord: und3r#0001
+ E-mail: arthurlacerda@proton.me
 
 ♥️ Thanks for visiting:
 
