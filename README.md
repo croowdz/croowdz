@@ -11,7 +11,7 @@ HTML/CSS/JS/PHP developer, learning hacking, also have skills in others areas �
 🎓 I love learning new technologies and tools!
 
 📫 You can find me at:
- Discord: und3r#0001
+ Discord: und3r.
  E-mail: arthurlacerda@proton.me
 
 ♥️ Thanks for visiting:
